@@ -1,4 +1,4 @@
-# Ndochi Legends — v0.5
+# Ndochi Legends — v0.5.1
 
 Un jeu de Loïc Makasso Eti. Version web compilée (Flutter + Flame).
 
